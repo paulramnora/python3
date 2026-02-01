@@ -2,7 +2,7 @@
 #          then, print out name specially formatted:
 #          Full name: fName mName lName
 #          First and last name; fName lName
-#          Initials: lName. mName. LName.
+#          Initials: lName[0]. mName[0]. LName[0].
 
 # input...
 
